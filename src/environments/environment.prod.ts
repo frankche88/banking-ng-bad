@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl : 'http://localhost:65452'
+  apiUrl : 'https://banking-web-api-courteous-bushbuck.cfapps.io'
 };
